@@ -6,6 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A291AA492D7D32B0004C4C4B /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA482D7D32B0004C4C4B /* FirebaseAnalytics */; };
+		A291AA4B2D7D32B0004C4C4B /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA4A2D7D32B0004C4C4B /* FirebaseAuth */; };
+		A291AA4D2D7D32B0004C4C4B /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA4C2D7D32B0004C4C4B /* FirebaseAuthCombine-Community */; };
+		A291AA4F2D7D32B0004C4C4B /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA4E2D7D32B0004C4C4B /* FirebaseDatabase */; };
+		A291AA512D7D32B0004C4C4B /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA502D7D32B0004C4C4B /* FirebaseFirestore */; };
+		A291AA532D7D32B0004C4C4B /* FirebaseFirestoreCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA522D7D32B0004C4C4B /* FirebaseFirestoreCombine-Community */; };
+		A291AA572D7D32B0004C4C4B /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA562D7D32B0004C4C4B /* FirebaseStorage */; };
+		A291AA592D7D32B0004C4C4B /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = A291AA582D7D32B0004C4C4B /* FirebaseStorageCombine-Community */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A291AA1D2D7C9DEB004C4C4B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -29,9 +40,38 @@
 		A291AA262D7C9DEB004C4C4B /* PantryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PantryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A24D29E42DB5BBFD005EC05C /* Exceptions for "Pantry" folder in "Pantry" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A291AA0B2D7C9DEA004C4C4B /* Pantry */;
+		};
+		A28BDA262D7DEB33003B6C90 /* Exceptions for "Pantry" folder in "PantryTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Fonts/Manrope-ExtraBold.ttf",
+			);
+			target = A291AA1B2D7C9DEB004C4C4B /* PantryTests */;
+		};
+		A28BDA272D7DEB33003B6C90 /* Exceptions for "Pantry" folder in "PantryUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Fonts/Manrope-ExtraBold.ttf",
+			);
+			target = A291AA252D7C9DEB004C4C4B /* PantryUITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A291AA0E2D7C9DEA004C4C4B /* Pantry */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A24D29E42DB5BBFD005EC05C /* Exceptions for "Pantry" folder in "Pantry" target */,
+				A28BDA262D7DEB33003B6C90 /* Exceptions for "Pantry" folder in "PantryTests" target */,
+				A28BDA272D7DEB33003B6C90 /* Exceptions for "Pantry" folder in "PantryUITests" target */,
+			);
 			path = Pantry;
 			sourceTree = "<group>";
 		};
@@ -52,6 +92,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A291AA492D7D32B0004C4C4B /* FirebaseAnalytics in Frameworks */,
+				A291AA4D2D7D32B0004C4C4B /* FirebaseAuthCombine-Community in Frameworks */,
+				A291AA4F2D7D32B0004C4C4B /* FirebaseDatabase in Frameworks */,
+				A291AA532D7D32B0004C4C4B /* FirebaseFirestoreCombine-Community in Frameworks */,
+				A291AA572D7D32B0004C4C4B /* FirebaseStorage in Frameworks */,
+				A291AA512D7D32B0004C4C4B /* FirebaseFirestore in Frameworks */,
+				A291AA592D7D32B0004C4C4B /* FirebaseStorageCombine-Community in Frameworks */,
+				A291AA4B2D7D32B0004C4C4B /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +160,14 @@
 			);
 			name = Pantry;
 			packageProductDependencies = (
+				A291AA482D7D32B0004C4C4B /* FirebaseAnalytics */,
+				A291AA4A2D7D32B0004C4C4B /* FirebaseAuth */,
+				A291AA4C2D7D32B0004C4C4B /* FirebaseAuthCombine-Community */,
+				A291AA4E2D7D32B0004C4C4B /* FirebaseDatabase */,
+				A291AA502D7D32B0004C4C4B /* FirebaseFirestore */,
+				A291AA522D7D32B0004C4C4B /* FirebaseFirestoreCombine-Community */,
+				A291AA562D7D32B0004C4C4B /* FirebaseStorage */,
+				A291AA582D7D32B0004C4C4B /* FirebaseStorageCombine-Community */,
 			);
 			productName = Pantry;
 			productReference = A291AA0C2D7C9DEA004C4C4B /* Pantry.app */;
@@ -195,6 +251,9 @@
 			);
 			mainGroup = A291AA032D7C9DEA004C4C4B;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A291AA0D2D7C9DEA004C4C4B /* Products */;
 			projectDirPath = "";
@@ -399,11 +458,15 @@
 				DEVELOPMENT_TEAM = X25VNRYK2Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Pantry/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Pantry;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to access camera for object detection.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -428,11 +491,15 @@
 				DEVELOPMENT_TEAM = X25VNRYK2Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Pantry/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Pantry;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to access camera for object detection.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -558,6 +625,60 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.9.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A291AA482D7D32B0004C4C4B /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		A291AA4A2D7D32B0004C4C4B /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		A291AA4C2D7D32B0004C4C4B /* FirebaseAuthCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseAuthCombine-Community";
+		};
+		A291AA4E2D7D32B0004C4C4B /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		A291AA502D7D32B0004C4C4B /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		A291AA522D7D32B0004C4C4B /* FirebaseFirestoreCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseFirestoreCombine-Community";
+		};
+		A291AA562D7D32B0004C4C4B /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		A291AA582D7D32B0004C4C4B /* FirebaseStorageCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A291AA472D7D32B0004C4C4B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseStorageCombine-Community";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A291AA042D7C9DEA004C4C4B /* Project object */;
 }

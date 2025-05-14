@@ -8,17 +8,28 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var viewModel: AuthViewModel
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        Group{
+            if viewModel.userSession != nil{
+                PantryTabView()
+                    .onAppear{
+                        print("user logged in")
+                    }
+                
+                    .environmentObject(viewModel)
+            } else{
+                SignInView()
+                    .onAppear{
+                        print("user logged out")
+                    }
+            }
         }
-        .padding()
+        .onChange(of: viewModel.userSession) { newValue in
+                    // You can add additional logic to ensure smooth transition or reload
+                    print("User session changed")
+                }
     }
 }
 
-#Preview {
-    ContentView()
-}
+
