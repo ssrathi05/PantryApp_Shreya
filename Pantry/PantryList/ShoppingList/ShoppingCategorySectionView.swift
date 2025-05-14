@@ -17,7 +17,7 @@ struct ShoppingCategorySectionView: View {
         ZStack {
             RoundedRectangle(cornerRadius: 20)
                 .fill(Color.white)
-                .frame(width: 360)
+                .frame(width: 361)
                 .shadow(color: Color.gray.opacity(0.12), radius: 7, x: 4, y: 4)
             
             HStack(spacing: 7) {
