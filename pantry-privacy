@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.4">
+  <style type="text/css">
+    body {background-color: #f1f1f1}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Arial; color: #262626; -webkit-text-stroke: #262626}
+    p.p6 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: center; font: 12.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff}
+    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; color: #262626; -webkit-text-stroke: #262626}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; color: #0000e9; -webkit-text-stroke: #0000e9}
+    span.s1 {font-kerning: none; background-color: #40a33f}
+    span.s2 {font-kerning: none; background-color: #ffffff}
+    span.s3 {background-color: #ffffff; -webkit-text-stroke: 0px #000000}
+    span.s4 {color: #262626; background-color: #ffffff; -webkit-text-stroke: 0px #000000}
+    span.s5 {font-kerning: none; color: #262626; background-color: #ffffff; -webkit-text-stroke: 0px #262626}
+    span.s6 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+    span.s7 {text-decoration: underline ; font-kerning: none; color: #0000e9; background-color: #ffffff; -webkit-text-stroke: 0px #0000e9}
+    span.s8 {font-kerning: none; background-color: #262626}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; text-align: center; font: 24.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s1"><b>Terms of Service for Pantry</b><b></b></span></h1>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>Effective Date</b><b></b></span></h2>
+<p class="p3"><span class="s2">Effective Date: April 27, 2025</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>1. Introduction</b><b></b></span></h2>
+<p class="p3"><span class="s2">Pantry is a food waste tracker app that helps users manage their grocery list, shopping list, and consumption diary. The app also tracks expired and consumed items and provides barcode and image recognition scanning capabilities. The app utilizes Firebase for backend services, and users can sign in using either a traditional username and password or through Google or Apple Sign-In.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>2. Eligibility</b><b></b></span></h2>
+<p class="p3"><span class="s2">By using the Pantry app, you affirm that you are at least 13 years of age or have obtained parental consent if you are under the age of 13. If you are under the age of 18, you must have the consent of a parent or legal guardian to use the app.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>3. Account Registration</b><b></b></span></h2>
+<p class="p3"><span class="s2">To use certain features of the Pantry app, such as storing a grocery list or consumption diary, you must create an account. You can register by signing up using a traditional username and password or through Google Sign-In or Apple Sign-In. You are responsible for maintaining the confidentiality of your account credentials and agree to notify us immediately if you believe your account has been compromised.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>4. Information We Collect</b><b></b></span></h2>
+<p class="p3"><span class="s2">When you use Pantry, we collect and process the following types of data:</span></p>
+<ul class="ul1">
+  <li class="li4"><span class="s3"><b></b></span><span class="s2"><b>Personal Information:</b> Name, email address, and any information provided during account creation or profile setup.</span></li>
+  <li class="li4"><span class="s3"><b></b></span><span class="s2"><b>Usage Data:</b> Information about your usage of the app, including your grocery list, shopping history, consumption diary, and data from barcode and image scans.</span></li>
+</ul>
+<p class="p3"><span class="s2">We do not collect any device-specific data, nor do we use cookies for tracking purposes in the Pantry app.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>5. How We Use Your Information</b><b></b></span></h2>
+<p class="p3"><span class="s2">We use the data we collect for the following purposes:</span></p>
+<ul class="ul1">
+  <li class="li4"><span class="s3"></span><span class="s2">To provide and maintain the features of the Pantry app.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">To analyze and improve the user experience.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">To send you notifications, reminders, and updates related to your grocery list and consumption diary.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">To support barcode and image recognition features for tracking food items.</span></li>
+</ul>
+<p class="p3"><span class="s2">We do not sell or rent your personal information to third parties. However, we may share your data with trusted service providers to help us deliver the app’s functionality, such as Firebase for backend services.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>6. Prohibited Activities</b><b></b></span></h2>
+<p class="p3"><span class="s2">You agree not to:</span></p>
+<ul class="ul1">
+  <li class="li4"><span class="s3"></span><span class="s2">Use the Pantry app for illegal activities or in violation of applicable laws.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">Engage in any activity that could disrupt, damage, or interfere with the proper functioning of the app.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">Attempt to reverse-engineer or manipulate the app’s code, or access the app in unauthorized ways.</span></li>
+  <li class="li4"><span class="s3"></span><span class="s2">Upload or transmit any content that is harmful, fraudulent, or violates intellectual property rights.</span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>7. Ownership and Intellectual Property</b><b></b></span></h2>
+<p class="p3"><span class="s2">The Pantry app and its content, including code, design, trademarks, and logos, are owned by Shreya Rathi and are protected by intellectual property laws. You are granted a limited, non-exclusive license to use the app for personal, non-commercial purposes, in accordance with these Terms.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>8. Termination of Service</b><b></b></span></h2>
+<p class="p3"><span class="s2">We may suspend or terminate your access to the Pantry app if you violate these Terms or engage in any prohibited activities. You can terminate your account at any time by deleting it from the app. Upon termination, your data may be retained for backup purposes in accordance with our Privacy Policy.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>9. Limitation of Liability</b><b></b></span></h2>
+<p class="p3"><span class="s2">To the fullest extent permitted by law, Shreya Rathi shall not be liable for any indirect, incidental, special, or consequential damages arising out of your use or inability to use the Pantry app. This includes, but is not limited to, data loss, system failures, or service interruptions.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>10. Dispute Resolution</b><b></b></span></h2>
+<p class="p3"><span class="s2">Any disputes arising from these Terms or your use of the Pantry app shall be governed by the laws of the United States. You agree to resolve any disputes through [mediation/arbitration] before seeking legal action. In the event of a dispute, the jurisdiction will be in the United States.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>11. Changes to the Terms</b><b></b></span></h2>
+<p class="p3"><span class="s2">We reserve the right to update these Terms at any time. Any changes will be posted on this page with an updated "Effective Date." By continuing to use the Pantry app after such changes, you agree to the updated Terms.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>12. Governing Law</b><b></b></span></h2>
+<p class="p3"><span class="s2">These Terms shall be governed by and construed in accordance with the laws of the United States without regard to its conflict of law principles.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>13. Contact Information</b><b></b></span></h2>
+<p class="p3"><span class="s2">If you have any questions or concerns about these Terms of Service, please contact me at:</span></p>
+<ul class="ul1">
+  <li class="li5"><span class="s4"><b></b></span><span class="s5"><b>Email:</b> <a href="mailto:rathishreya2005@gmail.com"><span class="s6">rathishreya2005@gmail.com</span></a></span></li>
+</ul>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>14. Privacy Policy</b><b></b></span></h2>
+<p class="p3"><span class="s2">For information about how we collect, use, and protect your personal information, please review our </span><span class="s7">Privacy Policy</span><span class="s2">.</span></p>
+<h2 style="margin: 0.0px 0.0px 10.0px 0.0px; font: 18.0px Arial; color: #262626; -webkit-text-stroke: #262626"><span class="s2"><b>Conclusion</b><b></b></span></h2>
+<p class="p3"><span class="s2">By using the Pantry app, you acknowledge that you have read, understood, and agree to these Terms of Service. If you do not agree to these Terms, do not use the Pantry app.</span></p>
+<p class="p6"><span class="s8">© 2025 Shreya Rathi. All rights reserved.</span></p>
+</body>
+</html>
