@@ -51,7 +51,3 @@ Student | Aspiring iOS Developer | Data Analytics Enthusiast
 
 Currently a solo project, but contributions or feature ideas are always welcome!
 
-\
----
-
-> 🥫 **Pantry App** – Because food is too good to waste.
